@@ -134,12 +134,13 @@
     "2026-09-10": 1122,
     "2026-09-11": 1124,
     "2026-09-12": 1126,
-    "2026-09-13": 1129
+    "2026-09-13": 1129,
+    "2026-09-14": 1130
   },
   "first_observation": {
     "date": "2026-04-27",
     "source": "git history of assets/downloads.svg"
   },
-  "repo": "aibuildai/AI-Build-AI",
+  "repo": "aibuildai-inc/AI-Build-AI",
   "timezone": "UTC"
 }
