@@ -363,4 +363,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
     journal={arXiv},
     url={https://arxiv.org/abs/2605.27873}
 }
+@article{qin2026aibuildai25,
+    title={AIBuildAI-2.5: Efficient Autonomous AI Model Development Through LLM-Guided Tree Search},
+    author={Peijia Qin and Ruiyi Zhang and Qi Cao and Han Guo and Li Zhang and Pengtao Xie},
+    year={2026},
+    journal={arXiv},
+    url={https://arxiv.org/abs/2609.25047}
+}
 ```
